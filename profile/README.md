@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-[breakfreeapp-android](https://www.github.com/breakfreeapp/breakfreeapp-android)
-
+[breakfreeapp-android](https://github.com/BreakFreeApp/breakfree-android)
 
 <!--
 
